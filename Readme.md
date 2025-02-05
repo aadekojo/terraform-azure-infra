@@ -3,6 +3,7 @@
 - [🚀 Project Overview]
 - [🔧 Prerequisites]
 - [🛠 Step-by-Step Implementation]
+
     [1. Azure Setup](#1-azure-setup)
     [2. Initialize Terraform](#2-initialize-terraform)
     [3. Define Resources & Apply the Plan](#3-define-resources)
