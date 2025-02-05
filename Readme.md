@@ -3,11 +3,10 @@
 - [🚀 Project Overview]
 - [🔧 Prerequisites]
 - [🛠 Step-by-Step Implementation]
-
-    [1. Azure Setup](#1-azure-setup)
-    [2. Initialize Terraform](#2-initialize-terraform)
-    [3. Define Resources & Apply the Plan](#3-define-resources)
-    [4. Access the VM](#4-access-the-vm)
+    - [1. Azure Setup](#1-azure-setup)
+    - [2. Initialize Terraform](#2-initialize-terraform)
+    - [3. Define Resources & Apply the Plan](#3-define-resources)
+    - [4. Access the VM](#4-access-the-vm)
 -  [⚠️ Pitfalls and Troubleshooting](#Pitfalls)
 - [🧹 Cleanup](#Cleanup)
 ## Project Overview
